@@ -68,7 +68,3 @@ The best-performing model combines collaborative filtering and content-based fil
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-
----
-
-This template provides a comprehensive guide to the project, ensuring users can understand the purpose, setup, and usage of the restaurant recommendation system. If you need specific details from the notebook itself, please let me know, and I can assist with that as well.
